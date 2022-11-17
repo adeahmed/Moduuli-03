@@ -1,4 +1,3 @@
-
 const names = [
     "first item",
     "second item",
